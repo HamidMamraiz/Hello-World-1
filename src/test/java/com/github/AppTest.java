@@ -23,6 +23,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        private int deadCode;
     }
 
     /**
